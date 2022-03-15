@@ -1,2 +1,2 @@
 # Flash Chat App
-## My first Flutter project on my 2nd Semester.
+## My first Flutter project in my 2nd Semester.
